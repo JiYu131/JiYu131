@@ -1,4 +1,4 @@
-[![JiYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYu)](https://github.com/anuraghazra/github-readme-stats)
+[![JiYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYu131)](https://github.com/anuraghazra/github-readme-stats)
 
 ~~不忍直视的数据~~
 
