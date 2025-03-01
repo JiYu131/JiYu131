@@ -1,2 +1,1 @@
-![overview](https://cdn.fzf404.art/gh/stats@output/generated/overview.svg)
-![language](https://cdn.fzf404.art/gh/stats@output/generated/languages.svg)
+[![JiYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiYu)](https://github.com/anuraghazra/github-readme-stats)
